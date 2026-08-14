@@ -1,4 +1,4 @@
-# The (V_{\mathcal B}) Hypothesis
+# The $V_{\mathcal B}$ Hypothesis
 
 This repository contains the **Mathematica notebooks and supplementary code** supporting the following works:
 

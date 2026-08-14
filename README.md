@@ -20,6 +20,3 @@ The published article introduces the production-dependent $V_{\mathcal B}$ mecha
 ## License
 
 This work is released under the **MIT License**. See the `LICENSE` file for details. Attribution is appreciated.
-
-
-This work is released under the **MIT License**. See the `LICENSE` file for details. Attribution is appreciated.

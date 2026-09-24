@@ -1,13 +1,15 @@
 # The $V_{\mathcal B}$ Hypothesis
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22945006.svg)](https://doi.org/10.5281/zenodo.22945006)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22945006.svg)](https://zenodo.org/records/22945006)
 
 This repository contains the **Mathematica notebooks, numerical calculations, and supplementary code** associated with the $V_{\mathcal B}$ hypothesis and its phenomenological predictions for rare $\eta^{(\prime)}$ radiative decays.
 
 A permanent archival snapshot of this code is available on **Zenodo**:
 
 > **Yaroslav Balytskyi (2026). *Code associated with the Kinematic Rubicon, VB model.* Zenodo, v1.**
-> **DOI:** [10.5281/zenodo.22945006](https://doi.org/10.5281/zenodo.22945006)
+> **DOI:** `10.5281/zenodo.22945006`
+> **Zenodo record:** [zenodo.org/records/22945006](https://zenodo.org/records/22945006)
+
 
 The Zenodo record provides a permanent, timestamped archival version of the computational material associated with this work.
 
